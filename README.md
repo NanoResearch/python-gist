@@ -1,3 +1,7 @@
+Abandoned
+===========
+I'm not really working on this any more. It needs a rewrite against a python GitHub API library rather than my own homebrewed solution.
+
 python-gist
 ============
 
